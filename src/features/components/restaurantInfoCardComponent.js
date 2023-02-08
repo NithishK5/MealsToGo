@@ -1,7 +1,7 @@
 import React from "react";
 import { Text } from "react-native";
 import { Card } from "react-native-paper";
-import styled from "styled-components/native";
+import styled from "styled-components";
 
 const RestaurantCard = styled(Card)`
   background-color: white;
